@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/OmDbApi-Search-Movie-App/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/OmDbApi-Search-Movie-App/static/js/main.3b213795.chunk.js",
+    "main.js.map": "/OmDbApi-Search-Movie-App/static/js/main.3b213795.chunk.js.map",
+    "runtime-main.js": "/OmDbApi-Search-Movie-App/static/js/runtime-main.9f6815de.js",
+    "runtime-main.js.map": "/OmDbApi-Search-Movie-App/static/js/runtime-main.9f6815de.js.map",
+    "static/js/2.530619c9.chunk.js": "/OmDbApi-Search-Movie-App/static/js/2.530619c9.chunk.js",
+    "static/js/2.530619c9.chunk.js.map": "/OmDbApi-Search-Movie-App/static/js/2.530619c9.chunk.js.map",
+    "static/js/3.b5ec6e2b.chunk.js": "/OmDbApi-Search-Movie-App/static/js/3.b5ec6e2b.chunk.js",
+    "static/js/3.b5ec6e2b.chunk.js.map": "/OmDbApi-Search-Movie-App/static/js/3.b5ec6e2b.chunk.js.map",
+    "index.html": "/OmDbApi-Search-Movie-App/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/OmDbApi-Search-Movie-App/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.530619c9.chunk.js.LICENSE.txt": "/OmDbApi-Search-Movie-App/static/js/2.530619c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f6815de.js",
+    "static/js/2.530619c9.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3b213795.chunk.js"
+  ]
+}
